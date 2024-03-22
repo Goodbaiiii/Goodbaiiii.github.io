@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-03-21T06:09:43.150Z</updated>
+  <updated>2024-03-22T03:51:44.483Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Start up</title>
+    <link href="http://example.com/2024/03/22/Start%20up/"/>
+    <id>http://example.com/2024/03/22/Start%20up/</id>
+    <published>2024-03-22T03:50:34.000Z</published>
+    <updated>2024-03-22T03:51:44.483Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to Junle’s Studio! Something more detail about this page will be illustrated in this post.</p><h2 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h2><p>This page works as a recording of what i’ m doing and what i’ m enjoying. I will upload some of my previous work and life tracking. Generally, it combines the usage of a research lab and a personal blog. </p><p>To be more readable, posts will attach some tags and be divided into different categories . </p><p><u><strong>Categories:</strong></u></p><ul><li>Project</li><li>Publication</li><li>Paper reading</li><li>Reproduction</li><li>Application</li><li>Travel</li><li>Photograph</li><li>…</li></ul><h2 id="Discussion"><a href="#Discussion" class="headerlink" title="Discussion"></a>Discussion</h2><p>As a full-time junior, maybe i can’t update frequently :(   But i will do as i can.</p><p>What’s more, i will write in English as a practice to develop the writing habit, so…apologize for my poor writing in advance : )</p><p>I will add some new modules like <em><strong>message board</strong></em> to make sharing and commenting easier, anticipating your ideas and sharing!</p><p>Best wishes!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to Junle’s Studio! Something more detail about this page will be illustrated in this post.&lt;/p&gt;
+&lt;h2 id=&quot;Introduction&quot;&gt;&lt;a href=&quot;#In</summary>
+      
+    
+    
+    
+    
+    <category term="Log" scheme="http://example.com/tags/Log/"/>
+    
+  </entry>
   
   <entry>
     <title>test_my_site</title>
