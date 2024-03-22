@@ -40,32 +40,6 @@
   </entry>
   
   <entry>
-    <title>test_my_site</title>
-    <link href="http://example.com/2024/03/21/test-my-site-1/"/>
-    <id>http://example.com/2024/03/21/test-my-site-1/</id>
-    <published>2024-03-21T06:09:43.000Z</published>
-    <updated>2024-03-21T06:09:43.150Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>test_my_site</title>
-    <link href="http://example.com/2024/03/21/test-my-site/"/>
-    <id>http://example.com/2024/03/21/test-my-site/</id>
-    <published>2024-03-21T06:03:46.000Z</published>
-    <updated>2024-03-21T06:03:46.032Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>Hello World</title>
     <link href="http://example.com/2024/03/21/hello-world/"/>
     <id>http://example.com/2024/03/21/hello-world/</id>
