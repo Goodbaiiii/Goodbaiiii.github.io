@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-03-22T03:51:44.483Z</updated>
+  <updated>2024-04-03T05:48:43.957Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>LLM-driven robot security</title>
+    <link href="http://example.com/2024/04/03/LLM-driven-robot-security/"/>
+    <id>http://example.com/2024/04/03/LLM-driven-robot-security/</id>
+    <published>2024-04-03T04:56:36.000Z</published>
+    <updated>2024-04-03T05:48:43.957Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h2><p>As Embodied AI has gaining increasing popularity, tremendous impressive works have explored the brand new field of LLM-driven robot, like VoxPoser from FeiFei Li et al.,SayCan from Google. The highlight of this type of robot exists in the decision making by  large AI model, ranging from large language model, visual-and-language model to visual navigation model, refreshing the control center and process.</p><p>Pioneers broke the new ground and more relative assurance should be equipped. Although the security of LLMs has been receiving increasing attention, security issues in the field of LLM-driven robots have not been considered yet. The purpose of this project is to build a universal and generalizable security testing platform targeting LLM-driven robot.</p><h2 id="Overview"><a href="#Overview" class="headerlink" title="Overview"></a>Overview</h2><p><img src="/../images/Overview.png" alt="Overview"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;Introduction&quot;&gt;&lt;a href=&quot;#Introduction&quot; class=&quot;headerlink&quot; title=&quot;Introduction&quot;&gt;&lt;/a&gt;Introduction&lt;/h2&gt;&lt;p&gt;As Embodied AI has gaining inc</summary>
+      
+    
+    
+    
+    
+    <category term="Project" scheme="http://example.com/tags/Project/"/>
+    
+  </entry>
   
   <entry>
     <title>Start up</title>
