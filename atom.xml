@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-04-03T05:48:43.957Z</updated>
+  <updated>2024-04-03T06:51:34.276Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>SwipePass</title>
+    <link href="http://example.com/2024/04/03/Armpass/"/>
+    <id>http://example.com/2024/04/03/Armpass/</id>
+    <published>2024-04-03T06:02:45.000Z</published>
+    <updated>2024-04-03T06:51:34.276Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h2><p>The emergence of the Internet of Things (IoT) has popularized the use of swipe card-based authentication for tasks like access control and payments. However, this convenience comes with the risk of theft, posing potential privacy and security concerns. Traditional solutions, such as camera surveillance, are both expensive and inconvenient. To address this challenge, we propose Armpass, a non-intrusive automatic two-factor authentication system.</p><p>Armpass leverages a smartphone speaker placed in the user’s pocket to emit ultrasonic signals, with a microphone capturing the reflected signal off the user’s arm during card swiping. Our approach begins with the design of an innovative signal detection algorithm, aimed at reducing noise and extracting the acquired acoustic signal effectively.</p><p>Furthermore, we enhance the performance of the existing Long Short Term Memory Fully Convolutional Neural Networks (LSTM-FCN) by incorporating a one-class Support Vector Machine (SVM), creating a high-performing and lightweight user authentication model. We also employ transfer learning to minimize training costs and enhance model adaptability.</p><p>Experimental results validate the system’s efficacy, achieving a 97.2% accuracy for arm-lifting signal detection and a 99.1% accuracy for user authentication. Moreover, the system’s security and robustness are verified across various authentication environments.</p><h2 id="Overview"><a href="#Overview" class="headerlink" title="Overview"></a>Overview</h2><p><img src="/../images/ArmPass-Framework.png" alt="ArmPass-Framework"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;Introduction&quot;&gt;&lt;a href=&quot;#Introduction&quot; class=&quot;headerlink&quot; title=&quot;Introduction&quot;&gt;&lt;/a&gt;Introduction&lt;/h2&gt;&lt;p&gt;The emergence of the Internet </summary>
+      
+    
+    
+    
+    
+    <category term="Project" scheme="http://example.com/tags/Project/"/>
+    
+  </entry>
   
   <entry>
     <title>LLM-driven robot security</title>
